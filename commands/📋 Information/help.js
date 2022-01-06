@@ -52,7 +52,7 @@ module.exports = {
         .setTitle("HELP MENU 🔰 Commands")
         .addField('Prefix Information', `Prefix: \`${prefix}\`\nYou can also mention ${client.user} to get prefix info.`, false)
         .addField("• Developer", `\`\`\`yml\nName: CVoid#0940\`\`\``)
-        .addField("• Important Links", `**[Invite Link](https://discord.com/api/oauth2/authorize?client_id=${client.user.id}&permissions=8&scope=bot)\`|\`[Support Server](https://discord.gg/ArpJhDsJ43)\`**`)
+        .addField("• Important Links", `**[Invite Link](https://discord.com/api/oauth2/authorize?client_id=${client.user.id}&permissions=8&scope=bot)\`|\`[Support Server](https://discord.gg/ArpJhDsJ43)\**`)
         .addFields(categories)
         .setImage("https://cdn.discordapp.com/attachments/886983852969562164/927018242483036210/giphy.gif")
         .setDescription(
