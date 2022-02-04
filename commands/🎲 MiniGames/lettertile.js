@@ -3,7 +3,7 @@ const fetch = require('node-fetch')
 const config = require('../../config/config.json')
 
 module.exports = {
-    name: 'lettertile',
+    name: 'letterleague',
     aliases: ['ltl' ,'letter'],
     categories : 'minigames',
     description: 'Play Letter Tile in Discord Voice Channel',
@@ -42,7 +42,7 @@ module.exports = {
                     .setDescription("Error.")
                     .setColor("#ff0000")
             )
-            message.channel.send(`**Click on this link to open Letter Tile** \nhttps://discord.com/invite/${invite.code}`)
+            message.channel.send(`**Click on this link to open Letter League* \nhttps://discord.com/invite/${invite.code}`)
         })
     }
 }
