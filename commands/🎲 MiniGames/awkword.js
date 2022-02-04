@@ -42,7 +42,7 @@ module.exports = {
                     .setDescription("Error.")
                     .setColor("#ff0000")
             )
-            message.channel.send(`**Click on this link to open Awkword* \nhttps://discord.com/invite/${invite.code}`)
+            message.channel.send(`**Click on this link to open Awkword** \nhttps://discord.com/invite/${invite.code}`)
         })
     }
 }
