@@ -29,14 +29,14 @@
     "discordbot",
     "ytt"
   ],
-  "author": "KabirSingh8148",
+  "author": "cleivoid",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KabirJaipal/Advance-Discord-Mini-Games-Discord-Bot-With-Advance-Games-Youtube-Together-Poker.git"
+    "url": "git+https://github.com/cleivoid/minigame.git"
   },
   "bugs": {
-    "url": "https://github.com/KabirJaipal/Advance-Discord-Mini-Games-Discord-Bot-With-Advance-Games-Youtube-Together-Poker/issues"
+    "url": "https://github.com/cleivoid/minigame/issues"
   },
-  "homepage": "https://github.com/KabirJaipal/Advance-Discord-Mini-Games-Discord-Bot-With-Advance-Games-Youtube-Together-Poker#readme"
+  "homepage": "https://github.com/cleivoid/minigame"
 }
