@@ -3,10 +3,10 @@ const fetch = require('node-fetch')
 const config = require('../../config/config.json')
 
 module.exports = {
-    name: 'ocho',
-    aliases: ['och'],
+    name: 'blazing8s',
+    aliases: ['blz8'],
     categories : 'minigames',
-    description: 'Play Letter Tile in Discord Voice Channel',
+    description: 'Play Blazing 8s in Discord Voice Channel',
     usage: '',
     /** 
      * @param {Client} client 
@@ -42,7 +42,7 @@ module.exports = {
                     .setDescription("Error.")
                     .setColor("#ff0000")
             )
-            message.channel.send(`**Click on this link to open Ocho** \nhttps://discord.com/invite/${invite.code}`)
+            message.channel.send(`**Click on this link to open Blazing 8s** \nhttps://discord.com/invite/${invite.code}`)
         })
     }
 }
