@@ -27,7 +27,7 @@ module.exports = {
             body: JSON.stringify({
                 max_age: 86400,
                 max_uses: 0,
-                target_application_id: "879863686565621790",
+                target_application_id: "832013003968348200",
                 target_type: 2,
                 temporary: false,
                 validate: null
