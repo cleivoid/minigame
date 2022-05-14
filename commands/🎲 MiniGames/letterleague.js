@@ -6,7 +6,7 @@ module.exports = {
     name: 'letterleague',
     aliases: ['ltl' ,'letter'],
     categories : 'minigames',
-    description: 'Play Letter Tile in Discord Voice Channel',
+    description: 'Play Letter League in Discord Voice Channel',
     usage: '',
     /** 
      * @param {Client} client 
