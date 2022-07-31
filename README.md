@@ -1,1 +1,1 @@
-This project is outdated and no longer working. Cuz Im lazy to update 💤
+This project is outdated and no longer working cuz Im lazy to update 💤
